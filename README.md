@@ -16,10 +16,6 @@ Add the following code to your server.cfg/resouces.cfg
 ensure serrulata-menus
 ```
 
-# Config
-![Serrulata](https://i.imgur.com/cTIrh50.png)
-
-
 # Dependencies (QBCore)
 * [qb-target](https://github.com/qbcore-framework/qb-target)
 * [ps-ui](https://github.com/Project-Sloth/ps-ui)
