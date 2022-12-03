@@ -12,6 +12,9 @@ Instalation
 Simple Drag and drop resource
 Adding the items below to  qb-core> shared> items.lua
 
+# Preview
+* [Click Me!](https://streamable.com/ubjnei)
+
 ### Addon Items
 
 ```
