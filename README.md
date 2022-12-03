@@ -19,13 +19,11 @@ ensure serrulata-menus
 # Dependencies (QBCore)
 * [qb-target](https://github.com/qbcore-framework/qb-target)
 * [ps-ui](https://github.com/Project-Sloth/ps-ui)
-* [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch)
 
 # Dependencies (OXCore)
 * [ox_lib](https://github.com/overextended/ox_lib)
 * [ox_target](https://github.com/overextended/ox_target)
 * [ps-ui](https://github.com/Project-Sloth/ps-ui)
-* [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch)
 
 # Discord
 [![](https://dcbadge.vercel.app/api/server/NerdvuJDX7)](https://discord.gg/NerdvuJDX7)
