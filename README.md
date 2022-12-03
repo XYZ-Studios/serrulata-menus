@@ -1,16 +1,28 @@
-# Qbox MenuScript
+![Serrulata Studios Banner](https://i.imgur.com/wG4hycs.gif)
 
+# Installation
 
-Simple Menu script
+* Download the script and put it in the [resource] folder.
+* add 'Addon Items' To ox_inventory
+
+Add the following code to your server.cfg/resouces.cfg
+```
+ensure serrulata-showers
+```
 
 # Dependencies
 * [ox_lib](https://github.com/overextended/ox_lib)
 * [ox_target](https://github.com/overextended/ox_target)
 * [ps-ui](https://github.com/Project-Sloth/ps-ui)
 
-Instalation
-Simple Drag and drop resource
-Adding the items below to  qb-core> shared> items.lua
+# Preview 
+[Serrulata-Showers](https://streamable.com/kidv02) 
+
+# Discord
+[![](https://dcbadge.vercel.app/api/server/NerdvuJDX7)](https://discord.gg/NerdvuJDX7)
+
+# Developer's
+#### - Gale#4864
 
 # Preview
 * [Click Me!](https://streamable.com/ubjnei)
