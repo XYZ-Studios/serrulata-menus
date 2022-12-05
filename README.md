@@ -7,7 +7,7 @@
 
 Add the following code to your server.cfg/resouces.cfg
 ```
-ensure serrulata-showers
+ensure serrulata-menus
 ```
 
 # Dependencies
@@ -15,16 +15,13 @@ ensure serrulata-showers
 * [ox_target](https://github.com/overextended/ox_target)
 * [ps-ui](https://github.com/Project-Sloth/ps-ui)
 
-# Preview 
-[Serrulata-Showers](https://streamable.com/kidv02) 
-
 # Discord
 [![](https://dcbadge.vercel.app/api/server/NerdvuJDX7)](https://discord.gg/NerdvuJDX7)
 
 # Developer's
 #### - Gale#4864
 
-# Preview
+# Preview of Serrulata-Menus
 * [Click Me!](https://streamable.com/ubjnei)
 
 ### Addon Items
