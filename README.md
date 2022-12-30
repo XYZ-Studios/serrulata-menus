@@ -1,26 +1,16 @@
 ![Serrulata Studios Banner](https://i.imgur.com/wG4hycs.gif)
 
-# Different Frameworks
-
-* Download the framework you need!
-* [Serrulata-Menus-QB](https://img.freepik.com/free-vector/abstract-coming-soon-halftone-style-background-design_1017-27282.jpg?w=2000)
-
-* [Serrulata-Menus-OX](https://github.com/Serrulata-Studios/serrulata-menus/tree/ox)
-
 # Installation
 
 * Download the script and put it in the [resource] folder.
+* add 'Addon Items' To ox_inventory
 
 Add the following code to your server.cfg/resouces.cfg
 ```
 ensure serrulata-menus
 ```
 
-# Dependencies (QBCore)
-* [qb-target](https://github.com/qbcore-framework/qb-target)
-* [ps-ui](https://github.com/Project-Sloth/ps-ui)
-
-# Dependencies (OXCore)
+# Dependencies
 * [ox_lib](https://github.com/overextended/ox_lib)
 * [ox_target](https://github.com/overextended/ox_target)
 * [ps-ui](https://github.com/Project-Sloth/ps-ui)
@@ -29,4 +19,52 @@ ensure serrulata-menus
 [![](https://dcbadge.vercel.app/api/server/NerdvuJDX7)](https://discord.gg/NerdvuJDX7)
 
 # Developer's
-#### - Gale#4864 (OXCore)
+#### - Gale#4864
+
+# Preview of Serrulata-Menus
+* [Click Me!](https://streamable.com/ubjnei)
+
+### Addon Items
+
+```
+-- VU
+	['vumenu'] = {
+		label = 'VU Menu',
+		weight = 500,
+		stack = false,
+		close = true,
+		description = "VU Menu"
+	},
+-- UwU
+	['uwumenu'] = {
+		label = 'UwU Cafe Menu',
+		weight = 500,
+		stack = false,
+		close = true,
+		description = "UwU Cafe Menu"
+	},
+-- Bean Machine
+	['beanmenu'] = {
+		label = 'Bean Machine Menu',
+		weight = 500,
+		stack = false,
+		close = true,
+		description = "Bean Machine Menu"
+	},
+-- BurgerShot
+	['burgershotmenu'] = {
+		label = 'BurgerShot Menu',
+		weight = 500,
+		stack = false,
+		close = true,
+		description = "BurgerShot Menu"
+	},
+```
+
+# Credits
+* [rr-menus](https://github.com/Ronyboy4571/rr-menus)
+
+
+
+
+
